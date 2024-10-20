@@ -5,7 +5,7 @@ $field_message = $_POST['message'];
 
 //Specify the message recipient:
 $mail_to = 'tanujs19420@gmail.com';
-$mail_from = 'rworldmanagement@gmail.com';
+$mail_from = 'tanujshah19420@yahoo.com';
 $subject = 'Message from a site visitor!'.$field_name;
 
 //The email content:
